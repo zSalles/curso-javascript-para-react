@@ -14,3 +14,5 @@ function BoardGame(amountCards) {
 }
 
 export default BoardGame;
+
+//git
