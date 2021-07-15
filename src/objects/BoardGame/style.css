@@ -2,5 +2,5 @@
     display: flex;
     flex-wrap: wrap;
     background-color: var(--color-pomb-and-power);
-    gap: 21px;
+    gap: 20px;
 }
